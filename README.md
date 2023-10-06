@@ -24,13 +24,8 @@ O objetivo deste projeto é criar um aplicativo web simples para fornecer inform
 
 ## :technologist: Autor e Contribuidores
 
-<a href="https://github.com/jessicamedeirosp">
-<img src="https://avatars.githubusercontent.com/u/20779100?v=4" width="50px" />
+<a href="https://github.com/tiago-tsm">
+<img src="https://avatars.githubusercontent.com/u/138628238?v=4" width="50px" />
 </a>
-<a href="https://github.com/jessicamedeirosp">
-<img src="https://avatars.githubusercontent.com/u/20779100?v=4" width="50px" />
-</a>
-<a href="https://github.com/jessicamedeirosp">
-<img src="https://avatars.githubusercontent.com/u/20779100?v=4" width="50px" />
-</a>
+
 </table>
