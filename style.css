@@ -1,0 +1,46 @@
+
+
+
+
+.city{
+
+    font-size: 32px ;
+    font-family: fantasy;
+
+}
+
+.date{
+    font-size: 16px;
+    font-family: fantasy;
+
+
+}
+
+
+.container-temp{
+    display: flex;
+    justify-content: center;
+    background-color:rgba(0, 0, 0, 0.2); ;
+    box-shadow:3px 6px rgba(0, 0, 0, 0.6);
+    cursor: pointer;
+
+    font-size: 90px;
+    font-weight: 900;
+    text-shadow: 3px 6px rgba(0, 0, 0, 0.2);
+     font-family: fantasy;
+
+}
+
+.weather{
+    font-size: 32px;
+    font-family: fantasy;
+
+}
+
+
+.low-high{
+
+    font-size: 22px;
+    font-family: fantasy;
+
+}
