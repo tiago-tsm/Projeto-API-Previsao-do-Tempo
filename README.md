@@ -26,7 +26,7 @@ O objetivo deste projeto é criar um aplicativo web simples para fornecer inform
 
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/tiago-tsm"><img src="https://avatars.githubusercontent.com/u/20779100?v=4" width="50px;" alt=""/><br /><sub><b>Jess</b></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/tiago-tsm"><img src="https://avatars.githubusercontent.com/u/138628238?v=4" width="50px;" alt=""/><br /><sub><b>Jess</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/jessicamedeirosp"><img src="https://avatars.githubusercontent.com/u/20779100?v=4" width="50px;" alt=""/><br /><sub><b>Jess</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/jessicamedeirosp"><img src="https://avatars.githubusercontent.com/u/20779100?v=4" width="50px;" alt=""/><br /><sub><b>Jess</b></sub></a><br /></td>
    
