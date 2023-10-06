@@ -7,7 +7,7 @@
 O objetivo deste projeto é criar um aplicativo web simples para fornecer informações precisas e atualizadas sobre a previsão do tempo para uma localização específica. O aplicativo permitirá que os usuários insiram o nome da cidade , em seguida, exibirá a previsão do tempo atual para essa área.
   </p>
 
-[Acesse o projeto em produção](https://projetocss-jesscoder.netlify.app/)
+[Acesse o projeto em produção]()
 
 ## :man_mechanic: Linguagens e Ferramentas
 
