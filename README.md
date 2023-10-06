@@ -11,7 +11,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 ## :man_mechanic: Linguagens e Ferramentas
 
-![Skills](https://skillicons.dev/icons?i=html,css,js,)
+![Skills](https://skillicons.dev/icons?i=html,css,js)
 
 ## :ladder: Fucionalidades do Projeto
 
