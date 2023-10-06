@@ -4,7 +4,7 @@
 
 <img src="../images/haze-programmer-writing-code-on-laptop-1.png" width="200px" align="right" >
   <p align="left">
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.
+O objetivo deste projeto é criar um aplicativo web simples para fornecer informações precisas e atualizadas sobre a previsão do tempo para uma localização específica. O aplicativo permitirá que os usuários insiram o nome da cidade , em seguida, exibirá a previsão do tempo atual para essa área.
   </p>
 
 [Acesse o projeto em produção](https://projetocss-jesscoder.netlify.app/)
